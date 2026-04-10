@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+
+**/*.depend
+**/*.layout
+
+*.out
+*.exe
+*.0
+*.gdb
+
+*.log
+*.temp
