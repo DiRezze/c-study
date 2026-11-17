@@ -1,0 +1,20 @@
+Este projeto é uma adaptação do TAD Arvore Binária Ordenada
+do Livro do Backes, usando "Tipo_Dado" (Tipo abstrato adotado nos nodos)
+
+TAD Usual
+=========
+
+> Busca Binária em Árvore Ordenada (ABB - Arv. Binárioa de Busca): 
+  While / IF para esquerda (menor) ou direita (maior)
+
+TAD usado para discutir Recursividade
+=====================================
+
+1. Exibição RECURSIVA: pré-ordem, em-ordem, pós-ordem
+   BUSCA EXAUSTIVA => Exibição (Todos Nodos!)
+
+2. BUSCA de UM NODO em TODA Árvore
+   Com CORTE na Recursão!
+
+Adaptado por:
+F.Osório
